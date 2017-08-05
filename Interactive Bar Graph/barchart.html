@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+<!--Here we start our CSS code -->
 <style>
 
 body {
@@ -82,6 +83,8 @@ h1 {
 }
 
 </style>
+<!--Here we finish our CSS code -->
+
 <body>
    <h1>Q.3. What field of study interests you the most?</h1>
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -105,20 +108,11 @@ var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom");
 
-//New variable that sums all data
-//function percentize(data) {
-//  var sum = d3.sum(data);
-//  return data.map(function(d) {
-//    return { value: d, percent: d*100/sum };
-//  });
-//}
-
-// change tick format
 var yAxis = d3.svg.axis()
     .scale(y)
     .orient("left")
     .ticks(10, "%");
-    //.tickformat(percentize(d));
+
 
 var tip = d3.tip()
   .attr('class', 'd3-tip')
@@ -172,7 +166,7 @@ d3.tsv("data4.tsv", type, function(error, data) {
       .on('mouseover', tip.show)
       .on('mouseout', tip.hide)
 
-      bar.append("rect")
+      svg.selectAll(".bar")
            .attr("transform", "translate("+labelWidth+", 0)")
            .attr("height", barHeight)
            .attr("width", 0)
