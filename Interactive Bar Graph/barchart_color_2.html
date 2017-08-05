@@ -13,10 +13,10 @@ body {
   shape-rendering: crispEdges;
 }
 .bar {
-  fill: DarkOrange;
+  fill: RoyalBlue;
 }
 .bar:hover {
-  fill: Crimson ;
+  fill: LimeGreen;
 }
 /* Title */
 h1 {
@@ -125,7 +125,7 @@ var tip = d3.tip()
   .attr('class', 'd3-tip')
   .offset([-10, 0])
   .html(function(d) {
-    return "<strong>Counts:</strong> <span style='color:red'>" + d.frequency + "</span>";
+    return "<strong>Counts:</strong> <span style='color:Chocolate'>" + d.frequency + "</span>";
   })
 
 //ATTEMPT 3
@@ -144,6 +144,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
  svg.call(tip);
+
 
 //ATTEMPT 1: RESIZE using updateWindow()
 /*  var w = window,
