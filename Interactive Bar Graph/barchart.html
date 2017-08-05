@@ -172,6 +172,17 @@ d3.tsv("data4.tsv", type, function(error, data) {
       .on('mouseover', tip.show)
       .on('mouseout', tip.hide)
 
+      bar.append("rect")
+           .attr("transform", "translate("+labelWidth+", 0)")
+           .attr("height", barHeight)
+           .attr("width", 0)
+           .transition()
+           .duration(1500)
+           .delay(function(d,i){ return i*250})//a different delay for each bar
+           .attr("width", function(d){
+               return scale(d.percent);
+           });
+
 });
 
 function type(d) {
