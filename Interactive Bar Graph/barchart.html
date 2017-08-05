@@ -1,43 +1,36 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+
 <!--Here we start our CSS code -->
 <style>
-
 body {
   font: 15px 'Avenir';
 }
-
 .axis path,
 .axis line {
   fill: none;
   stroke: #000;
   shape-rendering: crispEdges;
 }
-
 .bar {
   fill: DarkOrange;
 }
-
 .bar:hover {
   fill: Crimson ;
 }
-
 /* Title */
 h1 {
   margin-left: 25px;
   text-align: left;
   font-family: 'Avenir';
       }
-
 /* Title */
 h1 {
     font-size: 25px;
       }
-
 .x.axis path {
   display: none;
 }
-
 .d3-tip {
   line-height: 1;
   font-weight: bold;
@@ -46,7 +39,6 @@ h1 {
   color: #fff;
   border-radius: 2px;
 }
-
 /* Creates a small triangle extender for the tooltip */
 .d3-tip:after {
   box-sizing: border-box;
@@ -59,7 +51,6 @@ h1 {
   position: absolute;
   text-align: center;
 }
-
 /* Style northward tooltips differently */
 .d3-tip.n:after {
   margin: -1px 0 0 0;
@@ -67,6 +58,13 @@ h1 {
   left: 0;
 }
 
+/* ATTEMPT 2*/
+/*  margin: 0;
+  overflow: hidden;
+}
+*/
+
+/* ATTEMPT 3*/
 .svg-container {
     display: inline-block;
     position: relative;
@@ -81,24 +79,32 @@ h1 {
     top: 10px;
     left: 0;
 }
-
 </style>
-<!--Here we finish our CSS code -->
 
+<!--Here we finish our CSS code -->
 <body>
    <h1>Q.3. What field of study interests you the most?</h1>
 <script src="http://d3js.org/d3.v3.min.js"></script>
+<!--ATTEMPT 3 DIV-->
+<div id="container" class="svg-container"></div>
 <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script>
 
 var margin = {top: 20, right: 20, bottom: 50, left: 70},
+//ATTEMPT 2: Just add Var width and height
+//var width = window.innerWidth,
+//  height = window.innerHeight;
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
+window.resizeTo(width, height)
+
 var formatPercent = d3.format(".0%");
+
 
 var x = d3.scale.ordinal()
     .rangeRoundBands([0, width], .1);
+
 
 var y = d3.scale.linear()
      .range([height, 0]);
@@ -107,6 +113,7 @@ var y = d3.scale.linear()
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom");
+
 
 var yAxis = d3.svg.axis()
     .scale(y)
@@ -121,17 +128,52 @@ var tip = d3.tip()
     return "<strong>Counts:</strong> <span style='color:red'>" + d.frequency + "</span>";
   })
 
-var svg = d3.select("body").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+//ATTEMPT 3
+  var svg = d3.select("div#container").append("svg")
+    .attr("preserveAspectRatio", "xMinYMin meet")
+    .attr("viewBox","0 0 " + width + " " + height)
+    .classed("svg-content", true)
+    .append("g")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+   svg.call(tip);
+//
 
-svg.call(tip);
+//var svg = d3.select("body").append("svg")
+//    .attr("width", width + margin.left + margin.right)
+//    .attr("height", height + margin.top + margin.bottom)
+//  .append("g")
+  //  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+// svg.call(tip);
+
+
+
+//ATTEMPT 1: RESIZE using updateWindow()
+ //var w = window,
+//     d = document,
+  //   e = d.documentElement,
+//     g = d.getElementsByTagName('body')[0],
+//     x1 = w.innerWidth || e.clientWidth || g.clientWidth,
+//     y1 = w.innerHeight|| e.clientHeight|| g.clientHeight;
+
+ //var svg = d3.select("body").append("svg")
+  //       .attr("width", x1)
+  //       .attr("height", y1)
+  //       .append("g")
+  //       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+//          svg.call(tip);
+
+ //function updateWindow(){
+  //   x1 = w.innerWidth || e.clientWidth || g.clientWidth;
+  //   y1 = w.innerHeight|| e.clientHeight|| g.clientHeight;
+
+  //   svg.attr("width", x1).attr("height", y1);
+// }
+// window.onresize = updateWindow;
 
 d3.tsv("data4.tsv", type, function(error, data) {
   x.domain(data.map(function(d) { return d.option; }));
   y.domain([0, d3.max(data, function(d) { return d.percent;})]);
+
 
 //Text label for x axis
   svg.append("g")
@@ -148,13 +190,9 @@ d3.tsv("data4.tsv", type, function(error, data) {
   svg.append("g")
       .attr("class", "y axis")
       .call(yAxis)
-    //  .append("text")
-    //  .attr("transform", "rotate(-90)")
-    //  .attr("y", 0 - margin.left)
-    //  .attr("dy", "1em")
-    //  .style("text-anchor", "middle")
-    //  .text("Percent");
 
+
+//The following two paragraphs don't work (they're for adding animation)
   svg.selectAll(".bar")
       .data(data)
     .enter().append("rect")
@@ -166,7 +204,8 @@ d3.tsv("data4.tsv", type, function(error, data) {
       .on('mouseover', tip.show)
       .on('mouseout', tip.hide)
 
-      svg.selectAll(".bar")
+
+  svg.selectAll(".bar")
            .attr("transform", "translate("+labelWidth+", 0)")
            .attr("height", barHeight)
            .attr("width", 0)
@@ -176,12 +215,9 @@ d3.tsv("data4.tsv", type, function(error, data) {
            .attr("width", function(d){
                return scale(d.percent);
            });
-
 });
-
 function type(d) {
   d.frequency = +d.frequency;
   return d;
 }
-
 </script>
