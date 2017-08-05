@@ -1,2 +1,3 @@
 # D3
-Some D3 Visualizations 
+Some basic D3 Visualizations: 
+1. Interactive bar graph (with hover) 
