@@ -70,7 +70,7 @@ body {
     display: inline-block;
     position: absolute;
     top: 10px;
-    bottom: 0px;
+    bottom: 10px;
     left: 0;
 }
 </style>
@@ -79,16 +79,15 @@ body {
 <body>
    <h1>Q. What field of study interests you the most?</h1>
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<!--ATTEMPT 3 DIV-->
-<div id="container" class="svg-container"></div>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<div id="container" class="svg-container"></div> <!--Here we create an id for our svg-->
 <svg preserveAspectRatio="xMinYMin meet"></svg>
 <svg viewBox="0 0 300 300"></svg>
-<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script>
 
 var margin = {top: 20, right: 20, bottom: 50, left: 70},
-    width = 1600 - margin.left - margin.right, //Default:width = 960 - margin.left - margin.right
-    height = 500 - margin.top - margin.bottom;
+    width = 1800 - margin.left - margin.right, //Default:width = 960 - margin.left - margin.right
+    height = 650 - margin.top - margin.bottom;
 
 var formatPercent = d3.format(".0%");
 
@@ -119,13 +118,13 @@ var tip = d3.tip()
     return "<strong>Counts:</strong> <span style='color:Chocolate'>" + d.frequency + "</span>";
   })
 
-//ATTEMPT 3
+
 var svg = d3.select("div#container").append("svg")
     .attr("preserveAspectRatio", "xMinYMin meet")
-    .attr("viewBox","0 0 " + width + " " + height + margin.top + margin.bottom)
+    .attr("viewBox","0 0 " + width + " " + height + margin.top) //+ margin.bottom)
     .classed("svg-content", true)
-   .append("g")
-   .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
     svg.call(tip);
 
 //ORIGINAL
