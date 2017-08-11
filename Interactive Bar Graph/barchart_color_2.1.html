@@ -62,7 +62,6 @@ body {
     display: inline-block;
     position: relative;
     width: 100%;
-/*    padding-bottom: 100%;  /* aspect ratio */
     vertical-align: top;
     overflow: hidden;
 }
@@ -125,18 +124,9 @@ var svg = d3.select("div#container").append("svg")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
     svg.call(tip);
 
-//ORIGINAL
- /*var svg = d3.select("body").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
- svg.call(tip); */
-
 d3.tsv("data4.tsv", type, function(error, data) {
   x.domain(data.map(function(d) { return d.option; }));
   y.domain([0, d3.max(data, function(d) { return d.percent;})]);
-
 
 //Text label for x axis
   svg.append("g")
