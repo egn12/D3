@@ -62,7 +62,7 @@ body {
     display: inline-block;
     position: relative;
     width: 100%;
-    padding-bottom: 100%;  /* aspect ratio */
+/*    padding-bottom: 100%;  /* aspect ratio */
     vertical-align: top;
     overflow: hidden;
 }
@@ -81,8 +81,6 @@ body {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <div id="container" class="svg-container"></div> <!--Here we create an id for our svg-->
-<svg preserveAspectRatio="xMinYMin meet"></svg>
-<svg viewBox="0 0 300 300"></svg>
 <script>
 
 var margin = {top: 20, right: 20, bottom: 50, left: 70},
@@ -121,7 +119,7 @@ var tip = d3.tip()
 
 var svg = d3.select("div#container").append("svg")
     .attr("preserveAspectRatio", "xMinYMin meet")
-    .attr("viewBox","0 0 " + width + " " + height + margin.top) //+ margin.bottom)
+    .attr("viewBox","0 0 " + (width + margin.left + margin.right) + " " + (height + margin.top + margin.bottom))
     .classed("svg-content", true)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
