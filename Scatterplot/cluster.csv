@@ -1,0 +1,773 @@
+soc2010,f1,f2,clust,soc2010_occs,cluster
+111011,1.2284322,-.37150237,1,Chief Executives,One
+111021,.6281755,-.11208668,1,General and Operations Managers,One
+112011,.44845489,-.70531195,1,Advertising and Promotions Managers,One
+112021,.75334281,-.23273525,1,Marketing Managers,One
+112022,.82042825,-.67125988,1,Sales Managers,One
+112031,.52846521,-.97567225,1,Public Relations and Fundraising Managers,One
+113011,.32054168,-.84825128,1,Administrative Services Managers,One
+113021,2.2874556,.41663107,2,Computer and Information Systems Managers,Two
+113031,.77866966,-1.4534991,1,Financial Managers,One
+113051,1.0377858,.90121734,2,Industrial Production Managers,Two
+113061,.83625728,.068784744,1,Purchasing Managers,One
+113071,.58767611,-.30760318,1,"Transportation, Storage, and Distribution Managers",One
+113111,.68676978,-1.6279794,1,Compensation and Benefits Managers,One
+113121,.71436369,-.86097443,1,Human Resources Managers,One
+113131,.56332242,-.7289024,1,Training and Development Managers,One
+119013,.30663058,.47491419,3,"Farmers, Ranchers, and Other Agricultural Managers",Three
+119021,1.2443594,1.4148214,2,Construction Managers,Two
+119031,-.20172206,-.65934479,1,"Education Administrators, Preschool and Childcare Center/Program",One
+119032,1.1189424,-1.2638153,1,"Education Administrators, Elementary and Secondary School",One
+119033,.73972821,-1.428012,1,"Education Administrators, Postsecondary",One
+119039,.65703237,-.43875983,1,"Education Administrators, All Other",One
+119041,1.7487212,1.3639001,2,Architectural and Engineering Managers,Two
+119051,-.11381146,.097569674,3,Food Service Managers,Three
+119061,-.16922265,-.66869646,1,Funeral Service Managers,One
+119071,.43910515,-.70775664,1,Gaming Managers,One
+119081,.72392583,-.43751854,1,Lodging Managers,One
+119111,1.4621975,-1.1719954,1,Medical and Health Services Managers,One
+119121,1.4207138,-.17018884,1,Natural Sciences Managers,One
+119131,.4722572,-.29349372,1,Postmasters and Mail Superintendents,One
+119141,.30815917,-.96273243,1,"Property, Real Estate, and Community Association Managers",One
+119151,.77027911,-.73614502,1,Social and Community Service Managers,One
+119161,1.1053059,.00097702839,1,Emergency Management Directors,One
+119199,.88423681,-.42500171,1,"Managers, All Other",One
+131011,-.28281042,-.82082534,1,"Agents and Business Managers of Artists, Performers, and Athletes",One
+131021,.40921614,-.44209459,1,"Buyers and Purchasing Agents, Farm Products",One
+131022,.36706507,-.74652648,1,"Wholesale and Retail Buyers, Except Farm Products",One
+131023,.64806068,-.17262416,1,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",One
+131031,.11981832,-1.4158549,1,"Claims Adjusters, Examiners, and Investigators",One
+131032,.28231278,-1.1080661,1,"Insurance Appraisers, Auto Damage",One
+131041,.56011111,-.93071747,1,Compliance Officers,One
+131051,1.4903482,.20292263,1,Cost Estimators,One
+131071,.038892943,-1.2419399,1,Human Resources Specialists,One
+131074,-1.2218871,-.26057339,3,Farm Labor Contractors,Three
+131075,.36114272,-1.2164559,1,Labor Relations Specialists,One
+131081,1.5301651,.41592145,2,Logisticians,Two
+131111,1.3686101,-1.0348542,1,Management Analysts,One
+131121,.58016783,-.42766413,1,"Meeting, Convention, and Event Planners",One
+131131,.18398628,-1.0591292,1,Fundraisers,One
+131141,.67083931,-1.1247804,1,"Compensation, Benefits, and Job Analysis Specialists",One
+131151,.81172425,-1.1004428,1,Training and Development Specialists,One
+131161,1.3077955,-1.3350457,1,Market Research Analysts and Marketing Specialists,One
+131199,.92303693,-.024769032,1,"Business Operations Specialists, All Other",One
+132011,.95361763,-1.6764936,1,Accountants and Auditors,One
+132021,.39565995,-1.5239141,1,Appraisers and Assessors of Real Estate,One
+132031,.82981437,-1.5811908,1,Budget Analysts,One
+132041,.23371823,-1.2371812,1,Credit Analysts,One
+132051,1.1835544,-1.8127645,1,Financial Analysts,One
+132052,.88166296,-1.6374063,1,Personal Financial Advisors,One
+132053,.51143217,-1.7595522,1,Insurance Underwriters,One
+132061,.92236781,-1.6665061,1,Financial Examiners,One
+132071,-.01790159,-1.0405941,1,Credit Counselors,One
+132072,.087240346,-1.2715777,1,Loan Officers,One
+132081,.42905575,-1.6102762,1,"Tax Examiners and Collectors, and Revenue Agents",One
+132082,.31205073,-1.4852992,1,Tax Preparers,One
+132099,1.0533385,-1.5097381,1,"Financial Specialists, All Other",One
+151111,3.0840206,1.6348079,2,Computer and Information Research Scientists,Two
+151121,2.4542642,1.3217705,2,Computer Systems Analysts,Two
+151122,1.9943373,.17937918,2,Information Security Analysts,Two
+151131,2.2664535,.29014421,2,Computer Programmers,Two
+151132,3.0816321,2.2257197,2,"Software Developers, Applications",Two
+151133,1.5171477,.22620741,1,"Software Developers, Systems Software",One
+151134,2.206733,.74007046,2,Web Developers,Two
+151141,2.1256227,.016752115,1,Database Administrators,One
+151142,2.4731026,.76291561,2,Network and Computer Systems Administrators,Two
+151143,2.0538855,1.980149,2,Computer Network Architects,Two
+151151,1.3524318,-.073615685,1,Computer User Support Specialists,One
+151152,1.6536934,.51359892,2,Computer Network Support Specialists,Two
+151199,1.9142872,.19351193,2,"Computer Occupations, All Other",Two
+152011,2.1745894,-2.0169375,1,Actuaries,One
+152021,1.8283129,-.66121042,1,Mathematicians,One
+152031,2.4487984,-.48553234,1,Operations Research Analysts,One
+152041,1.8082362,-1.491991,1,Statisticians,One
+152091,,,.,Mathematical Technicians,
+171011,1.7488041,2.7528944,2,"Architects, Except Landscape and Naval",Two
+171012,1.3812511,2.1266563,2,Landscape Architects,Two
+171021,.8038252,-.27769864,1,Cartographers and Photogrammetrists,One
+171022,1.9276688,.70733666,2,Surveyors,Two
+172011,3.2034295,3.3109043,2,Aerospace Engineers,Two
+172021,2.4845974,3.6615622,2,Agricultural Engineers,Two
+172031,3.335062,3.8599122,2,Biomedical Engineers,Two
+172041,2.8078969,3.4385638,2,Chemical Engineers,Two
+172051,2.2558663,3.26528,2,Civil Engineers,Two
+172061,2.8712816,2.9759769,2,Computer Hardware Engineers,Two
+172071,2.0378139,2.4268675,2,Electrical Engineers,Two
+172072,2.4904096,2.9695268,2,"Electronics Engineers, Except Computer",Two
+172081,2.2453282,2.7239897,2,Environmental Engineers,Two
+172111,1.8390254,2.2689798,2,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Two
+172112,1.8567243,2.2692249,2,Industrial Engineers,Two
+172121,2.0063913,3.8779509,2,Marine Engineers and Naval Architects,Two
+172131,2.2495778,2.3445692,2,Materials Engineers,Two
+172141,2.6624136,3.8204598,2,Mechanical Engineers,Two
+172151,2.4388165,3.4222145,2,"Mining and Geological Engineers, Including Mining Safety Engineers",Two
+172161,2.6592605,2.564188,2,Nuclear Engineers,Two
+172171,1.8546546,1.4738816,2,Petroleum Engineers,Two
+172199,2.2299936,2.9318483,2,"Engineers, All Other",Two
+173011,1.1564169,2.276866,2,Architectural and Civil Drafters,Two
+173012,.93497252,2.3060219,2,Electrical and Electronics Drafters,Two
+173013,1.3140769,3.4438276,2,Mechanical Drafters,Two
+173021,1.6550317,2.5232067,2,Aerospace Engineering and Operations Technicians,Two
+173022,1.3110596,1.5349262,2,Civil Engineering Technicians,Two
+173023,1.3070854,1.9797825,2,Electrical and Electronics Engineering Technicians,Two
+173024,1.0914432,1.6995888,2,Electro-Mechanical Technicians,Two
+173025,.62426311,1.3669903,2,Environmental Engineering Technicians,Two
+173026,1.5137436,3.474324,2,Industrial Engineering Technicians,Two
+173027,1.0029031,1.8493564,2,Mechanical Engineering Technicians,Two
+173029,1.3775995,2.346154,2,"Engineering Technicians, Except Drafters, All Other",Two
+173031,.84182924,.38563851,1,Surveying and Mapping Technicians,One
+191011,1.6316082,-.83229172,1,Animal Scientists,One
+191012,1.0644374,.2062021,1,Food Scientists and Technologists,One
+191013,1.694924,-.84838289,1,Soil and Plant Scientists,One
+191021,2.2857323,.31056601,2,Biochemists and Biophysicists,Two
+191022,1.5577525,-.89268202,1,Microbiologists,One
+191023,.74264884,-1.0522362,1,Zoologists and Wildlife Biologists,One
+191029,1.6226928,-.88170779,1,"Biological Scientists, All Other",One
+191031,.70054108,.27752548,1,Conservation Scientists,One
+191032,1.0454752,.51154405,2,Foresters,Two
+191041,1.6530654,-2.1603303,1,Epidemiologists,One
+191042,1.6831356,-1.032344,1,"Medical Scientists, Except Epidemiologists",One
+192011,2.4980855,-.33179897,1,Astronomers,One
+192012,2.7957411,1.9809662,2,Physicists,Two
+192021,1.3867668,-1.2581706,1,Atmospheric and Space Scientists,One
+192031,1.3177984,-.19040231,1,Chemists,One
+192032,1.9860001,1.2553104,2,Materials Scientists,Two
+192041,1.302912,-.15000136,1,"Environmental Scientists and Specialists, Including Health",One
+192042,1.6614931,-.56417793,1,"Geoscientists, Except Hydrologists and Geographers",One
+192043,1.6973609,1.0242935,2,Hydrologists,Two
+192099,2.1426222,.038035203,1,"Physical Scientists, All Other",One
+193011,1.5936019,-2.0723829,1,Economists,One
+193022,1.3792691,-1.6828656,1,Survey Researchers,One
+193031,.39652592,-1.5354389,1,"Clinical, Counseling, and School Psychologists",One
+193032,1.3255283,-1.0479591,1,Industrial-Organizational Psychologists,One
+193039,1.2039131,-1.7374939,1,"Psychologists, All Other",One
+193041,1.1333007,-2.1943243,1,Sociologists,One
+193051,1.177103,-.68218666,1,Urban and Regional Planners,One
+193091,1.301455,-1.5500979,1,Anthropologists and Archeologists,One
+193092,1.3058953,-1.4333968,1,Geographers,One
+193093,.15306206,-1.2655832,1,Historians,One
+193094,.68435311,-2.0113733,1,Political Scientists,One
+193099,1.7072641,-.25132728,1,"Social Scientists and Related Workers, All Other",One
+194011,.32783595,-.67976588,1,Agricultural and Food Science Technicians,One
+194021,.66123027,-.36584726,1,Biological Technicians,One
+194031,.51929158,-.50238842,1,Chemical Technicians,One
+194041,.58429426,.35154599,1,Geological and Petroleum Technicians,One
+194051,.57566339,-.66373587,1,Nuclear Technicians,One
+194061,.68324423,-.89692289,1,Social Science Research Assistants,One
+194091,.77008027,.45884413,1,"Environmental Science and Protection Technicians, Including Health",One
+194092,.39261875,-.072280645,1,Forensic Science Technicians,One
+194093,.1902791,.29007769,3,Forest and Conservation Technicians,Three
+194099,.94137514,.04926496,1,"Life, Physical, and Social Science Technicians, All Other",One
+211011,.017816035,-.84189731,1,Substance Abuse and Behavioral Disorder Counselors,One
+211012,.26338685,-1.1449817,1,"Educational, Guidance, School, and Vocational Counselors",One
+211013,.099200837,-.96261811,1,Marriage and Family Therapists,One
+211014,.34209722,-1.0326046,1,Mental Health Counselors,One
+211015,-.17958225,-.38422549,1,Rehabilitation Counselors,One
+211021,.12188308,-.8879208,1,"Child, Family, and School Social Workers",One
+211022,.10700065,-.79638755,1,Healthcare Social Workers,One
+211023,.30794722,-1.2702221,1,Mental Health and Substance Abuse Social Workers,One
+211091,.0047580916,-.79687083,1,Health Educators ,One
+211092,-.0069655725,-1.1035651,1,Probation Officers and Correctional Treatment Specialists,One
+211093,-.12290502,-.97763425,1,Social and Human Service Assistants,One
+211094,.50292724,-1.3705405,1,Community Health Workers,One
+212011,-.14817852,-.60516196,1,Clergy,One
+212021,.26800659,-.92012727,1,"Directors, Religious Activities and Education",One
+231011,.71560192,-1.3677328,1,Lawyers,One
+231012,.17295749,-1.5323013,1,Judicial Law Clerks,One
+231021,.69822925,-1.8648587,1,"Administrative Law Judges, Adjudicators, and Hearing Officers",One
+231022,-.22074071,-1.1729,1,"Arbitrators, Mediators, and Conciliators",One
+231023,.54009688,-1.5817416,1,"Judges, Magistrate Judges, and Magistrates",One
+232011,.27107471,-1.7508558,1,Paralegals and Legal Assistants,One
+232091,-.19212975,-1.3602116,1,Court Reporters,One
+232093,-.064138919,-1.3510555,1,"Title Examiners, Abstractors, and Searchers",One
+251011,.98850179,-1.5982063,1,"Business Teachers, Postsecondary",One
+251021,1.5545406,.65868616,2,"Computer Science Teachers, Postsecondary",Two
+251022,.42396498,-1.2367373,1,"Mathematical Science Teachers, Postsecondary",One
+251031,1.1647187,1.643114,2,"Architecture Teachers, Postsecondary",Two
+251032,1.6074154,1.3851489,2,"Engineering Teachers, Postsecondary",Two
+251041,1.3669327,-1.7032983,1,"Agricultural Sciences Teachers, Postsecondary",One
+251042,.83999527,-1.4156452,1,"Biological Science Teachers, Postsecondary",One
+251043,1.3702122,-1.0915992,1,"Forestry and Conservation Science Teachers, Postsecondary",One
+251051,1.8688396,-.87062967,1,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",One
+251052,1.1479738,-.60780251,1,"Chemistry Teachers, Postsecondary",One
+251053,.96139514,-.95148212,1,"Environmental Science Teachers, Postsecondary",One
+251054,1.8209699,-.79655653,1,"Physics Teachers, Postsecondary",One
+251061,.71220946,-1.5038254,1,"Anthropology and Archeology Teachers, Postsecondary",One
+251062,.68952131,-1.6708779,1,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",One
+251063,.85639644,-1.4081951,1,"Economics Teachers, Postsecondary",One
+251064,1.1840382,-1.41617,1,"Geography Teachers, Postsecondary",One
+251065,.92624336,-2.0311017,1,"Political Science Teachers, Postsecondary",One
+251066,.56238729,-1.3729081,1,"Psychology Teachers, Postsecondary",One
+251067,.55541503,-1.7343725,1,"Sociology Teachers, Postsecondary",One
+251071,.43039811,-1.0887096,1,"Health Specialties Teachers, Postsecondary",One
+251072,.70798689,-1.3915964,1,"Nursing Instructors and Teachers, Postsecondary",One
+251081,1.0276251,-2.0876172,1,"Education Teachers, Postsecondary",One
+251082,1.4128294,-2.0367877,1,"Library Science Teachers, Postsecondary",One
+251111,.54089612,-1.468534,1,"Criminal Justice and Law Enforcement Teachers, Postsecondary",One
+251112,.27047941,-1.4987079,1,"Law Teachers, Postsecondary",One
+251113,1.008103,-1.9788015,1,"Social Work Teachers, Postsecondary",One
+251121,-.15851419,-.511554,1,"Art, Drama, and Music Teachers, Postsecondary",One
+251122,.53867507,-1.3310431,1,"Communications Teachers, Postsecondary",One
+251123,.26629147,-1.5658964,1,"English Language and Literature Teachers, Postsecondary",One
+251124,.52391189,-1.4775307,1,"Foreign Language and Literature Teachers, Postsecondary",One
+251125,.18182831,-1.424899,1,"History Teachers, Postsecondary",One
+251126,.18528272,-1.142864,1,"Philosophy and Religion Teachers, Postsecondary",One
+251191,.021828899,-.34879068,1,Graduate Teaching Assistants,One
+251192,.77229911,-1.5626372,1,"Home Economics Teachers, Postsecondary",One
+251193,.47363985,-1.342177,1,"Recreation and Fitness Studies Teachers, Postsecondary",One
+251194,-.52562588,-.14427635,3,"Vocational Education Teachers, Postsecondary",Three
+252011,-.99637115,-.093634941,3,"Preschool Teachers, Except Special Education",Three
+252012,-.84448612,-.18916507,3,"Kindergarten Teachers, Except Special Education",Three
+252021,.33562723,-1.0125735,1,"Elementary School Teachers, Except Special Education",One
+252022,.019236824,-.7678923,1,"Middle School Teachers, Except Special and Career/Technical Education",One
+252023,.60242075,.035496745,1,"Career/Technical Education Teachers, Middle School",One
+252031,.36792299,-.64127213,1,"Secondary School Teachers, Except Special and Career/Technical Education",One
+252032,.61456186,-.17120263,1,"Career/Technical Education Teachers, Secondary School",One
+252052,.18481402,-1.0165253,1,"Special Education Teachers, Kindergarten and Elementary School",One
+252053,-.051300947,-.89989418,1,"Special Education Teachers, Middle School",One
+252054,.44672522,-1.161129,1,"Special Education Teachers, Secondary School",One
+252059,.17741175,-.56163949,1,"Special Education Teachers, All Other",One
+253011,-.21500461,-.88439459,1,Adult Basic and Secondary Education and Literacy Teachers and Instructors ,One
+253021,-.79220921,-.14314134,3,Self-Enrichment Education Teachers,Three
+253099,-.40960398,-.91661203,1,"Teachers and Instructors, All Other",One
+254011,.42492995,-1.2529991,1,Archivists,One
+254012,.63396806,-.55956185,1,Curators,One
+254013,.24303243,.26186478,3,Museum Technicians and Conservators,Three
+254021,.50721055,-1.1941049,1,Librarians,One
+254031,-.26244691,-1.0123075,1,Library Technicians,One
+259011,.9090637,.54734832,2,Audio-Visual and Multimedia Collections Specialists,Two
+259021,.95939785,-.46813479,1,Farm and Home Management Advisors,One
+259031,1.0605062,-.56144273,1,Instructional Coordinators,One
+259041,-.74046957,-.29777497,3,Teacher Assistants,Three
+271011,1.0203776,-.23855758,1,Art Directors,One
+271012,-.52394956,.67601663,3,Craft Artists,Three
+271013,-.52479386,1.2249578,3,"Fine Artists, Including Painters, Sculptors, and Illustrators",Three
+271014,1.1197995,-.74516499,1,Multimedia Artists and Animators,One
+271021,1.5029155,4.4683223,2,Commercial and Industrial Designers,Two
+271022,.46836573,.97576255,2,Fashion Designers,Two
+271023,-.76058429,-.18677916,3,Floral Designers,Three
+271024,.64268243,.078576609,1,Graphic Designers,One
+271025,.54485899,1.6366037,2,Interior Designers,Two
+271026,-.71461648,.036033668,3,Merchandise Displayers and Window Trimmers,Three
+271027,1.044719,2.3248262,2,Set and Exhibit Designers,Two
+272011,-1.4108548,-.047543082,3,Actors,Three
+272012,.48452449,-.4653694,1,Producers and Directors,One
+272021,.040666912,-.25469604,1,Athletes and Sports Competitors,One
+272022,-.091995895,.17932461,3,Coaches and Scouts,Three
+272023,-.64904338,-.78942943,1,"Umpires, Referees, and Other Sports Officials",One
+272031,-1.3101848,-.042153016,3,Dancers,Three
+272032,-.67861176,-.058986604,3,Choreographers,Three
+272041,-.15750596,.052613679,3,Music Directors and Composers,Three
+272042,-.90534627,-.22911663,3,Musicians and Singers,Three
+273011,.53890431,-.82236725,1,Radio and Television Announcers,One
+273012,-.84701604,-.23703165,3,Public Address System and Other Announcers,Three
+273021,.48627868,-1.1636442,1,Broadcast News Analysts,One
+273022,-.25204891,-1.155188,1,Reporters and Correspondents,One
+273031,.55517352,-.8653751,1,Public Relations Specialists,One
+273041,.47239265,-1.1816033,1,Editors,One
+273042,.76564044,-.48221946,1,Technical Writers,One
+273043,-.14043574,-.75480932,1,Writers and Authors,One
+273091,-.057798814,-1.0468549,1,Interpreters and Translators,One
+274011,.80295569,.24935931,1,Audio and Video Equipment Technicians,One
+274012,.64948177,1.2469552,2,Broadcast Technicians,Two
+274013,.19004531,-.86185682,1,Radio Operators,One
+274014,.97893614,.8364464,2,Sound Engineering Technicians,Two
+274021,.12872478,-.13935521,1,Photographers,One
+274031,.054697447,.94563836,3,"Camera Operators, Television, Video, and Motion Picture",Three
+274032,.45237082,-.055832084,1,Film and Video Editors,One
+291011,.51577771,-.86849856,1,Chiropractors,One
+291021,.75289309,.051409066,1,"Dentists, General",One
+291022,1.0186051,-.57088834,1,Oral and Maxillofacial Surgeons,One
+291023,.66312432,.19923282,1,Orthodontists,One
+291024,.68431282,1.4460579,2,Prosthodontists,Two
+291031,.67657316,-.50812048,1,Dietitians and Nutritionists,One
+291041,.45450589,-1.0428843,1,Optometrists,One
+291051,.98025304,-1.612054,1,Pharmacists,One
+291061,.94437832,-1.0241514,1,Anesthesiologists,One
+291062,.2144687,-1.2522067,1,Family and General Practitioners,One
+291063,1.0700749,-1.6514049,1,"Internists, General",One
+291064,.45408347,-.66819626,1,Obstetricians and Gynecologists,One
+291065,.41034302,-.79510254,1,"Pediatricians, General",One
+291066,.67232656,-1.3459074,1,Psychiatrists,One
+291067,1.1729938,-.3156271,1,Surgeons,One
+291069,.94529748,-1.2370559,1,"Physicians and Surgeons, All Other",One
+291071,.5542115,-1.0310677,1,Physician Assistants,One
+291081,.75568682,-.27866825,1,Podiatrists,One
+291122,.12313863,-.25785014,1,Occupational Therapists,One
+291123,.18201905,-.30206293,1,Physical Therapists,One
+291124,.88146883,-.32679486,1,Radiation Therapists,One
+291125,-.15744977,-.42851162,1,Recreational Therapists,One
+291126,.66172504,-.47843859,1,Respiratory Therapists,One
+291127,.46695015,-.48170719,1,Speech-Language Pathologists,One
+291128,.6377241,-.35775852,1,Exercise Physiologists,One
+291131,.42946273,-.81633914,1,Veterinarians,One
+291141,.54086554,-1.096647,1,Registered Nurses,One
+291151,.7908814,-.51994896,1,Nurse Anesthetists,One
+291161,.65628064,-1.4968213,1,Nurse Midwives,One
+291171,.89907616,-1.190865,1,Nurse Practitioners,One
+291181,.54850382,-.28122216,1,Audiologists,One
+291199,.13904271,-.84559888,1,"Health Diagnosing and Treating Practitioners, All Other",One
+292011,.04807787,-1.0337802,1,Medical and Clinical Laboratory Technologists,One
+292012,.7462402,-1.0607083,1,Medical and Clinical Laboratory Technicians,One
+292021,-.42974767,-.57219911,1,Dental Hygienists,One
+292031,.1287152,-.69893187,1,Cardiovascular Technologists and Technicians,One
+292032,.15749809,-.56512952,1,Diagnostic Medical Sonographers,One
+292033,.23892534,-.45382959,1,Nuclear Medicine Technologists,One
+292034,.259177,-.62629545,1,Radiologic Technologists ,One
+292035,.67615211,-.65355617,1,Magnetic Resonance Imaging Technologists,One
+292041,.45000324,-.2865622,1,Emergency Medical Technicians and Paramedics,One
+292051,-.5002774,-.29974669,3,Dietetic Technicians,Three
+292052,-.082402259,-1.0783998,1,Pharmacy Technicians,One
+292053,.19684091,-1.0223062,1,Psychiatric Technicians,One
+292054,.55858648,-.5007062,1,Respiratory Therapy Technicians,One
+292055,-.1775105,.17691582,3,Surgical Technologists,Three
+292056,.043882407,-.76927221,1,Veterinary Technologists and Technicians,One
+292057,-.0043592984,-1.2580045,1,Ophthalmic Medical Technicians,One
+292061,.019445151,-.63132346,1,Licensed Practical and Licensed Vocational Nurses,One
+292071,.088100411,-1.441407,1,Medical Records and Health Information Technicians,One
+292081,.061315693,-.51226997,1,"Opticians, Dispensing",One
+292091,1.0290142,2.2891247,2,Orthotists and Prosthetists,Two
+292092,.85159624,-.3420032,1,Hearing Aid Specialists,One
+292099,.15215059,-.72640443,1,"Health Technologists and Technicians, All Other",One
+299011,1.3471942,.77156228,2,Occupational Health and Safety Specialists,Two
+299012,.65556037,.18064168,1,Occupational Health and Safety Technicians,One
+299091,.22137308,-.25414822,1,Athletic Trainers,One
+299092,.4249804,-1.7630116,1,Genetic Counselors,One
+299099,.19947095,-1.2077711,1,"Healthcare Practitioners and Technical Workers, All Other",One
+311011,-.99499613,-.37622604,3,Home Health Aides,Three
+311013,-1.0448694,-.3061718,3,Psychiatric Aides,Three
+311014,-1.1246353,-.19048354,3,Nursing Assistants,Three
+311015,-1.3056154,-.40572876,3,Orderlies,Three
+312011,-.047920365,-.7960729,1,Occupational Therapy Assistants,One
+312012,-.51207417,-.36820328,3,Occupational Therapy Aides,Three
+312021,-.2316293,-.47606117,1,Physical Therapist Assistants,One
+312022,-.69307148,-.13140479,3,Physical Therapist Aides,Three
+319011,-.71847594,-.52068007,3,Massage Therapists,Three
+319091,-.15097183,-.47317904,1,Dental Assistants,One
+319092,.16089794,-1.2306014,1,Medical Assistants,One
+319093,.24888346,-1.2158726,1,Medical Equipment Preparers,One
+319094,-.38888592,-1.2060951,1,Medical Transcriptionists,One
+319095,-.18539427,-.82668746,1,Pharmacy Aides,One
+319096,-.51402867,-.58053482,3,Veterinary Assistants and Laboratory Animal Caretakers,Three
+319097,-.18596996,-.80653238,1,Phlebotomists,One
+319099,-.14734463,-.62038726,1,"Healthcare Support Workers, All Other",One
+331011,.24803732,-.89687818,1,First-Line Supervisors of Correctional Officers,One
+331012,.88431698,-.9255181,1,First-Line Supervisors of Police and Detectives,One
+331021,.47680625,.56229949,3,First-Line Supervisors of Fire Fighting and Prevention Workers,Three
+332011,-.13586757,.25790745,3,Firefighters,Three
+332021,.49944645,-.55644768,1,Fire Inspectors and Investigators,One
+332022,.63590342,-.94736874,1,Forest Fire Inspectors and Prevention Specialists,One
+333011,-1.2326007,-.47557288,3,Bailiffs,Three
+333012,-.176543,-1.039461,1,Correctional Officers and Jailers,One
+333021,.64447248,-1.3103324,1,Detectives and Criminal Investigators,One
+333031,.38007253,-.74799341,1,Fish and Game Wardens,One
+333041,-.2830992,-.19268902,3,Parking Enforcement Workers,Three
+333051,.30803734,-1.1104345,1,Police and Sheriff's Patrol Officers,One
+333052,-.32587981,-.55160391,1,Transit and Railroad Police,One
+339011,-.5906347,-.38893095,3,Animal Control Workers,Three
+339021,.48405758,-1.4045678,1,Private Detectives and Investigators,One
+339031,.40856606,-1.367952,1,Gaming Surveillance Officers and Gaming Investigators,One
+339032,-.80019069,-.81065202,3,Security Guards,Three
+339091,-1.5733947,-.075910412,3,Crossing Guards,Three
+339092,-1.6080598,.083502933,3,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Three
+339093,-.76030737,-.61151743,3,Transportation Security Screeners,Three
+339099,.60361755,-1.2755483,1,"Protective Service Workers, All Other",One
+351011,-.16170955,-.12341452,3,Chefs and Head Cooks,Three
+351012,-.82930022,.25081718,3,First-Line Supervisors of Food Preparation and Serving Workers,Three
+352011,-1.3427194,-.0074289078,3,"Cooks, Fast Food",Three
+352012,-.94208437,.008645921,3,"Cooks, Institution and Cafeteria",Three
+352013,-.94053602,.089014322,3,"Cooks, Private Household",Three
+352014,-1.4813834,.36599022,3,"Cooks, Restaurant",Three
+352015,-1.532473,.33561084,3,"Cooks, Short Order",Three
+352021,-1.7344654,.23681183,3,Food Preparation Workers,Three
+353011,-1.2539568,.0015196833,3,Bartenders,Three
+353021,-1.3715839,.23292741,3,"Combined Food Preparation and Serving Workers, Including Fast Food",Three
+353022,-1.4106958,.00628292,3,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",Three
+353031,-1.4696388,-.071560085,3,Waiters and Waitresses,Three
+353041,-1.6382068,.2393394,3,"Food Servers, Nonrestaurant",Three
+359011,-1.3192645,-.11183869,3,Dining Room and Cafeteria Attendants and Bartender Helpers,Three
+359021,-1.4521147,.22714899,3,Dishwashers,Three
+359031,-1.5749905,.0097200051,3,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Three
+371011,-.77369219,.40225717,3,First-Line Supervisors of Housekeeping and Janitorial Workers,Three
+371012,-.2310738,.56862742,3,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Three
+372011,-1.688,.076230504,3,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Three
+372012,-1.5553339,.14172797,3,Maids and Housekeeping Cleaners,Three
+372021,-.93825215,.084790118,3,Pest Control Workers,Three
+373011,-1.4091109,.44076225,3,Landscaping and Groundskeeping Workers,Three
+373012,-.86023045,-.062407151,3,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",Three
+373013,-1.1530092,.23025993,3,Tree Trimmers and Pruners,Three
+391011,-.90331298,-.41582441,3,Gaming Supervisors,Three
+391012,-.77709025,-.62040287,3,Slot Supervisors,Three
+391021,-.085018426,-.55726635,1,First-Line Supervisors of Personal Service Workers,One
+392011,-.68320519,-.14148001,3,Animal Trainers,Three
+392021,-1.3459054,.083640203,3,Nonfarm Animal Caretakers,Three
+393011,-1.4384238,-.05592287,3,Gaming Dealers,Three
+393012,-1.1996983,-.29473934,3,Gaming and Sports Book Writers and Runners,Three
+393021,-1.2292081,.53379208,3,Motion Picture Projectionists,Three
+393031,-1.4176569,-.02285509,3,"Ushers, Lobby Attendants, and Ticket Takers",Three
+393091,-1.5300921,.26366282,3,Amusement and Recreation Attendants,Three
+393092,-.77100962,.35684174,3,Costume Attendants,Three
+393093,-1.8985007,.25987905,3,"Locker Room, Coatroom, and Dressing Room Attendants",Three
+394011,-.38562971,-.22528738,3,Embalmers,Three
+394021,-.76251155,-.33847216,3,Funeral Attendants,Three
+394031,-.090134338,-.20034671,1,"Morticians, Undertakers, and Funeral Directors",One
+395011,-1.6284391,.2692425,3,Barbers,Three
+395012,-.67399639,.1596166,3,"Hairdressers, Hairstylists, and Cosmetologists",Three
+395091,-.50462931,.39723668,3,"Makeup Artists, Theatrical and Performance",Three
+395092,-1.6012135,.68516421,3,Manicurists and Pedicurists,Three
+395093,-1.6073637,.11937999,3,Shampooers,Three
+395094,-1.3591969,.079706773,3,Skincare Specialists,Three
+396011,-1.3463181,-.17527452,3,Baggage Porters and Bellhops,Three
+396012,-.25194818,-.96892351,1,Concierges,One
+397011,-1.1225287,-.19648752,3,Tour Guides and Escorts,Three
+397012,-.57709432,-.21598536,3,Travel Guides,Three
+399011,-1.2414854,.23710589,3,Childcare Workers,Three
+399021,-1.5511211,-.0026455959,3,Personal Care Aides,Three
+399031,-.63720328,.012175883,3,Fitness Trainers and Aerobics Instructors,Three
+399032,-.70276493,.1698942,3,Recreation Workers,Three
+399041,-.2054251,-.39591888,1,Residential Advisors,One
+411011,-.38158336,-.17580782,3,First-Line Supervisors of Retail Sales Workers,Three
+411012,.62737721,-.98392993,1,First-Line Supervisors of Non-Retail Sales Workers,One
+412011,-1.3413297,-.1950759,3,Cashiers,Three
+412012,-1.2028351,-.30772433,3,Gaming Change Persons and Booth Cashiers,Three
+412021,-.72101521,-.41731814,3,Counter and Rental Clerks,Three
+412022,.0010320406,-.79528093,1,Parts Salespersons,One
+412031,-.66661555,-.081759498,3,Retail Salespersons,Three
+413011,-.014682015,-.49984828,1,Advertising Sales Agents,One
+413021,-.059882361,-1.160396,1,Insurance Sales Agents,One
+413031,.59112585,-1.5447307,1,"Securities, Commodities, and Financial Services Sales Agents",One
+413041,.19988875,-1.0290948,1,Travel Agents,One
+413099,.76950568,-1.0226362,1,"Sales Representatives, Services, All Other",One
+414011,.069651172,.71594268,3,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",Three
+414012,-.095623769,-.74836874,1,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",One
+419011,-1.0017608,.1984116,3,Demonstrators and Product Promoters,Three
+419012,-1.7800137,.27072886,3,Models,Three
+419021,.06909202,-1.301625,1,Real Estate Brokers,One
+419022,.24372147,-1.2024205,1,Real Estate Sales Agents,One
+419031,1.7439601,1.3984681,2,Sales Engineers,Two
+419041,-1.2478689,-.28874153,3,Telemarketers,Three
+419091,-1.0375683,-.094735019,3,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Three
+431011,.55598933,-1.039572,1,First-Line Supervisors of Office and Administrative Support Workers,One
+432011,-.57512218,-1.0526729,1,"Switchboard Operators, Including Answering Service",One
+432021,-.78268236,-.61013377,3,Telephone Operators,Three
+433011,-.3930465,-1.0506108,1,Bill and Account Collectors,One
+433021,-.2045636,-1.4234585,1,Billing and Posting Clerks,One
+433031,-.11891352,-1.4019225,1,"Bookkeeping, Accounting, and Auditing Clerks",One
+433041,-1.0595211,-.49070621,3,Gaming Cage Workers,Three
+433051,-.049231399,-1.6762991,1,Payroll and Timekeeping Clerks,One
+433061,-.046880189,-1.078873,1,Procurement Clerks,One
+433071,-.63162279,-.81671816,1,Tellers,One
+434011,-.12954149,-1.2212515,1,Brokerage Clerks,One
+434021,-.2732648,-1.2001464,1,Correspondence Clerks,One
+434031,-.34903586,-1.1817294,1,"Court, Municipal, and License Clerks",One
+434041,-.050493009,-1.5657873,1,"Credit Authorizers, Checkers, and Clerks",One
+434051,.042484999,-1.1335063,1,Customer Service Representatives,One
+434061,-.2093083,-1.4620473,1,"Eligibility Interviewers, Government Programs",One
+434071,-.23866852,-.5547772,1,File Clerks,One
+434081,-.61155403,-.40613666,3,"Hotel, Motel, and Resort Desk Clerks",Three
+434111,-.86106747,-.59427452,3,"Interviewers, Except Eligibility and Loan",Three
+434121,-.088313319,-.94958258,1,"Library Assistants, Clerical",One
+434131,.24471481,-1.3757674,1,Loan Interviewers and Clerks,One
+434141,.12694116,-1.3452736,1,New Accounts Clerks,One
+434151,.19090451,-.79076445,1,Order Clerks,One
+434161,.018023444,-1.2244147,1,"Human Resources Assistants, Except Payroll and Timekeeping",One
+434171,-.29094651,-1.195994,1,Receptionists and Information Clerks,One
+434181,.023619121,-1.0729285,1,Reservation and Transportation Ticket Agents and Travel Clerks,One
+435011,.087511323,-1.2793646,1,Cargo and Freight Agents,One
+435021,-1.1906172,-.47956893,3,Couriers and Messengers,Three
+435031,.38139302,-1.2627509,1,"Police, Fire, and Ambulance Dispatchers",One
+435032,.22045572,-.78581452,1,"Dispatchers, Except Police, Fire, and Ambulance",One
+435041,-.70786923,.10706464,3,"Meter Readers, Utilities",Three
+435051,-.56931835,-.50640661,3,Postal Service Clerks,Three
+435052,-1.6706408,.13792963,3,Postal Service Mail Carriers,Three
+435053,-1.4246616,-.069205813,3,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",Three
+435061,.28321087,-.40158039,1,"Production, Planning, and Expediting Clerks",One
+435071,-.55837464,-.65819865,1,"Shipping, Receiving, and Traffic Clerks",One
+435081,-1.161158,-.33630377,3,Stock Clerks and Order Fillers,Three
+435111,-.46127039,-1.0027446,1,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",One
+436011,-.054108508,-.85244781,1,Executive Secretaries and Executive Administrative Assistants,One
+436012,-.022978244,-1.4547925,1,Legal Secretaries,One
+436013,-.17992172,-1.350226,1,Medical Secretaries,One
+436014,-.22340652,-.98710001,1,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",One
+439011,1.1678476,-.70326108,1,Computer Operators,One
+439021,-.096591353,-1.2355504,1,Data Entry Keyers,One
+439022,-.61457008,-.7070322,3,Word Processors and Typists,Three
+439031,1.0647633,.18754309,1,Desktop Publishers,One
+439041,-.24697778,-1.4225671,1,Insurance Claims and Policy Processing Clerks,One
+439051,-1.0632484,-.39305612,3,"Mail Clerks and Mail Machine Operators, Except Postal Service",Three
+439061,-.61091483,-.84721261,1,"Office Clerks, General",One
+439071,-.068084516,-.38664892,1,"Office Machine Operators, Except Computer",One
+439081,-.48921642,-1.2815515,1,Proofreaders and Copy Markers,One
+439111,1.7383571,-1.0572728,1,Statistical Assistants,One
+451011,.052088819,.5746966,3,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",Three
+452011,.017101169,-.54649985,1,Agricultural Inspectors,One
+452021,-.73712724,.059113316,3,Animal Breeders,Three
+452041,-1.9296919,.20860548,3,"Graders and Sorters, Agricultural Products",Three
+452091,-1.5792,.23570067,3,Agricultural Equipment Operators,Three
+452092,-1.8374768,.21874635,3,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",Three
+452093,-1.150223,.19297045,3,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Three
+453011,-1.3182205,.51416236,3,Fishers and Related Fishing Workers,Three
+453021,-1.1102985,.097720273,3,Hunters and Trappers,Three
+454011,.26129445,-.073332474,1,Forest and Conservation Workers,One
+454021,-1.7298455,.58080423,3,Fallers,Three
+454022,-1.4012095,.49127215,3,Logging Equipment Operators,Three
+454023,-.62134588,-.58273911,3,Log Graders and Scalers,Three
+471011,.48082626,1.7221181,2,First-Line Supervisors of Construction Trades and Extraction Workers,Two
+472011,-.32140014,1.4691103,3,Boilermakers,Three
+472021,-.68074399,1.4728633,3,Brickmasons and Blockmasons,Three
+472022,-1.2594039,1.6844364,3,Stonemasons,Three
+472031,-.74148232,1.4161431,3,Carpenters,Three
+472041,-1.06081,.96580571,3,Carpet Installers,Three
+472042,-1.004198,.32483074,3,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Three
+472043,-1.4634616,.11161036,3,Floor Sanders and Finishers,Three
+472044,-1.0552156,1.3655041,3,Tile and Marble Setters,Three
+472051,-.92057228,.98214012,3,Cement Masons and Concrete Finishers,Three
+472053,-1.2257558,.88080972,3,Terrazzo Workers and Finishers,Three
+472061,-1.0530688,.94916886,3,Construction Laborers,Three
+472071,-.97964144,.95242554,3,"Paving, Surfacing, and Tamping Equipment Operators",Three
+472072,-1.1421648,.77544665,3,Pile-Driver Operators,Three
+472073,-.7922442,.75291264,3,Operating Engineers and Other Construction Equipment Operators,Three
+472081,-1.2448677,1.5168107,3,Drywall and Ceiling Tile Installers,Three
+472082,-1.6905167,.31831786,3,Tapers,Three
+472111,.024576189,1.222586,3,Electricians,Three
+472121,-1.1690332,.79433757,3,Glaziers,Three
+472131,-1.3507514,.69270825,3,"Insulation Workers, Floor, Ceiling, and Wall",Three
+472132,-1.2361059,1.0206109,3,"Insulation Workers, Mechanical",Three
+472141,-1.0384833,.32614142,3,"Painters, Construction and Maintenance",Three
+472142,-1.4573442,.72512084,3,Paperhangers,Three
+472151,-1.1442733,.99414331,3,Pipelayers,Three
+472152,-.60750544,1.6925844,3,"Plumbers, Pipefitters, and Steamfitters",Three
+472161,-.96597558,.4798511,3,Plasterers and Stucco Masons,Three
+472171,-1.1167424,1.3232789,3,Reinforcing Iron and Rebar Workers,Three
+472181,-.91555732,.80565965,3,Roofers,Three
+472211,-.51672298,1.8905464,3,Sheet Metal Workers,Three
+472221,-1.0101324,1.3670744,3,Structural Iron and Steel Workers,Three
+472231,-.24349916,1.4295403,3,Solar Photovoltaic Installers,Three
+473011,-1.0411283,1.0890629,3,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Three
+473012,-.96987075,1.1912546,3,Helpers--Carpenters,Three
+473013,-1.1635907,.69939029,3,Helpers--Electricians,Three
+473014,-1.7056549,.25618446,3,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Three
+473015,-1.1354702,.8645876,3,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Three
+473016,-.68542773,.45733458,3,Helpers--Roofers,Three
+474011,.37037948,.79610771,3,Construction and Building Inspectors,Three
+474021,.25113875,1.5643054,2,Elevator Installers and Repairers,Two
+474031,-1.1933644,.95943522,3,Fence Erectors,Three
+474041,-.45590568,.36598438,3,Hazardous Materials Removal Workers,Three
+474051,-.8161552,.51371121,3,Highway Maintenance Workers,Three
+474061,-.64565486,.92695737,3,Rail-Track Laying and Maintenance Equipment Operators,Three
+474071,-.78236878,.56838089,3,Septic Tank Servicers and Sewer Pipe Cleaners,Three
+474091,-.91874707,.82928294,3,Segmental Pavers,Three
+474099,.12146565,1.2027688,3,"Construction and Related Workers, All Other",Three
+475011,-1.1652263,.5175252,3,"Derrick Operators, Oil and Gas",Three
+475012,-.78827399,.52410597,3,"Rotary Drill Operators, Oil and Gas",Three
+475013,-.16515644,1.3867602,3,"Service Unit Operators, Oil, Gas, and Mining",Three
+475021,-1.2017683,1.1300379,3,"Earth Drillers, Except Oil and Gas",Three
+475031,.14385682,.70039392,3,"Explosives Workers, Ordnance Handling Experts, and Blasters",Three
+475041,-.94888514,.72779542,3,Continuous Mining Machine Operators,Three
+475042,-1.1560817,.73942089,3,Mine Cutting and Channeling Machine Operators,Three
+475051,-1.4731114,.46303591,3,"Rock Splitters, Quarry",Three
+475061,-1.4689187,.9426744,3,"Roof Bolters, Mining",Three
+475071,-1.2560121,.50021136,3,"Roustabouts, Oil and Gas",Three
+475081,-.58607072,1.0999869,3,Helpers--Extraction Workers,Three
+491011,.81970125,1.0860925,2,"First-Line Supervisors of Mechanics, Installers, and Repairers",Two
+492011,.4312861,.76737756,3,"Computer, Automated Teller, and Office Machine Repairers",Three
+492021,.63417864,1.1481751,2,"Radio, Cellular, and Tower Equipment Installers and Repairs",Two
+492022,.52069885,.95537794,2,"Telecommunications Equipment Installers and Repairers, Except Line Installers",Two
+492091,1.0690835,.9899022,2,Avionics Technicians,Two
+492092,-.36372867,1.532836,3,"Electric Motor, Power Tool, and Related Repairers",Three
+492093,.091892116,.45312262,3,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Three
+492094,1.2947873,2.1872671,2,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Two
+492095,.49736586,1.2914811,2,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Two
+492096,.62615216,.98905146,2,"Electronic Equipment Installers and Repairers, Motor Vehicles",Two
+492097,.52692491,1.6574562,2,Electronic Home Entertainment Equipment Installers and Repairers,Two
+492098,.21795559,.502092,3,Security and Fire Alarm Systems Installers,Three
+493011,.60259515,1.2556996,2,Aircraft Mechanics and Service Technicians,Two
+493021,-.77925628,.71962255,3,Automotive Body and Related Repairers,Three
+493022,-1.1401583,.40202233,3,Automotive Glass Installers and Repairers,Three
+493023,.20327258,.61008424,3,Automotive Service Technicians and Mechanics,Three
+493031,-.18849044,.99586421,3,Bus and Truck Mechanics and Diesel Engine Specialists,Three
+493041,-.18512577,.73139513,3,Farm Equipment Mechanics and Service Technicians,Three
+493042,-.17136383,1.7955579,2,"Mobile Heavy Equipment Mechanics, Except Engines",Two
+493043,-1.0057902,.73055518,3,Rail Car Repairers,Three
+493051,-.12414707,.70539886,3,Motorboat Mechanics and Service Technicians,Three
+493052,-.5771597,.52918917,3,Motorcycle Mechanics,Three
+493053,-.44410023,.53068,3,Outdoor Power Equipment and Other Small Engine Mechanics,Three
+493091,-.38678452,.89398956,3,Bicycle Repairers,Three
+493092,-.52504063,.86721951,3,Recreational Vehicle Service Technicians,Three
+493093,-.6883719,.19140373,3,Tire Repairers and Changers,Three
+499011,-.59710562,1.407253,3,Mechanical Door Repairers,Three
+499012,-.57228374,.32468933,3,"Control and Valve Installers and Repairers, Except Mechanical Door",Three
+499021,.46376732,1.5483063,2,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Two
+499031,-.21240333,.3555398,3,Home Appliance Repairers,Three
+499041,-.17936058,2.2005248,2,Industrial Machinery Mechanics,Two
+499043,-.64056218,1.5192363,3,"Maintenance Workers, Machinery",Three
+499044,-.035227302,1.7828634,2,Millwrights,Two
+499045,-1.1634778,.80871439,3,"Refractory Materials Repairers, Except Brickmasons",Three
+499051,-.22828852,1.2827163,3,Electrical Power-Line Installers and Repairers,Three
+499052,-.13843225,.28342488,3,Telecommunications Line Installers and Repairers,Three
+499061,-.02263039,1.446357,3,Camera and Photographic Equipment Repairers,Three
+499062,.87072539,1.2490515,2,Medical Equipment Repairers,Two
+499063,-.23552783,.53761905,3,Musical Instrument Repairers and Tuners,Three
+499064,-.92546391,1.0378681,3,Watch Repairers,Three
+499071,-.781331,1.1682104,3,"Maintenance and Repair Workers, General",Three
+499081,.55783153,1.3162388,2,Wind Turbine Service Technicians,Two
+499091,-.98844016,-.058525741,3,"Coin, Vending, and Amusement Machine Servicers and Repairers",Three
+499092,-.46088919,.72121453,3,Commercial Divers,Three
+499093,-1.2022098,.65405267,3,"Fabric Menders, Except Garment",Three
+499094,-.12303807,.25220487,3,Locksmiths and Safe Repairers,Three
+499095,-.094005831,1.8929423,2,Manufactured Building and Mobile Home Installers,Two
+499096,-1.298268,1.0971749,3,Riggers,Three
+499097,-.065952145,.63304752,3,Signal and Track Switch Repairers,Three
+499098,-.86564386,.21042575,3,"Helpers--Installation, Maintenance, and Repair Workers",Three
+499099,.29482159,.42280129,3,"Installation, Maintenance, and Repair Workers, All Other",Three
+511011,.12635067,.89226389,3,First-Line Supervisors of Production and Operating Workers,Three
+512011,.11391635,1.3721558,2,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",Two
+512021,-1.3366539,.31829378,3,"Coil Winders, Tapers, and Finishers",Three
+512022,-.85550696,.61479563,3,Electrical and Electronic Equipment Assemblers,Three
+512023,-.89627218,1.6640962,3,Electromechanical Equipment Assemblers,Three
+512031,-.65066773,.84538287,3,Engine and Other Machine Assemblers,Three
+512041,-1.0746071,1.3381201,3,Structural Metal Fabricators and Fitters,Three
+512091,-.6767751,.62793595,3,Fiberglass Laminators and Fabricators,Three
+512092,-.75237852,-.34205285,3,Team Assemblers,Three
+512093,-.80536473,.77709967,3,Timing Device Assemblers and Adjusters,Three
+513011,-1.1574558,.46544313,3,Bakers,Three
+513021,-.94065398,-.074076131,3,Butchers and Meat Cutters,Three
+513022,-1.8118846,.595263,3,"Meat, Poultry, and Fish Cutters and Trimmers",Three
+513023,-1.6768014,.14632115,3,Slaughterers and Meat Packers,Three
+513091,-1.4276022,.1652002,3,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",Three
+513092,-.88597041,.14075151,3,Food Batchmakers,Three
+513093,-1.0026395,.25403744,3,Food Cooking Machine Operators and Tenders,Three
+514011,.4429391,1.6540825,2,"Computer-Controlled Machine Tool Operators, Metal and Plastic",Two
+514012,1.6737807,2.2854419,2,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",Two
+514021,-.62568241,.30252776,3,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",Three
+514022,-.7357282,1.0536659,3,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",Three
+514023,-.53492916,.53624856,3,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",Three
+514031,-.89049071,.58763713,3,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",Three
+514032,-.21668163,.54669505,3,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Three
+514033,-.6654039,.33160436,3,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Three
+514034,-.5700956,.75107169,3,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Three
+514035,-.83293241,.52686012,3,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Three
+514041,-.2125435,1.7090764,3,Machinists,Three
+514051,-1.1048079,.46417865,3,Metal-Refining Furnace Operators and Tenders,Three
+514052,-1.5325848,.078099594,3,"Pourers and Casters, Metal",Three
+514061,-.16877843,2.0287795,2,"Model Makers, Metal and Plastic",Two
+514062,.20494395,2.464148,2,"Patternmakers, Metal and Plastic",Two
+514071,-1.3626113,.36219406,3,Foundry Mold and Coremakers,Three
+514072,-1.0064852,.4406741,3,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",Three
+514081,-.63725334,1.1281116,3,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Three
+514111,.69354373,3.1154921,2,Tool and Die Makers,Two
+514121,-1.1535666,1.0479915,3,"Welders, Cutters, Solderers, and Brazers",Three
+514122,-.93772197,.61695844,3,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Three
+514191,-.89071536,.37383804,3,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Three
+514192,-.64797735,1.0595928,3,"Layout Workers, Metal and Plastic",Three
+514193,-.93322504,.62864375,3,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",Three
+514194,-.74903029,.87412328,3,"Tool Grinders, Filers, and Sharpeners",Three
+515111,.30115339,-.33818316,1,Prepress Technicians and Workers,One
+515112,-.68692762,.32234737,3,Printing Press Operators,Three
+515113,-.85456359,.22258572,3,Print Binding and Finishing Workers,Three
+516011,-1.5423957,.49211806,3,Laundry and Dry-Cleaning Workers,Three
+516021,-1.6358404,.33369946,3,"Pressers, Textile, Garment, and Related Materials",Three
+516031,-1.6227326,.46697173,3,Sewing Machine Operators,Three
+516041,-1.8040916,.56712651,3,Shoe and Leather Workers and Repairers,Three
+516042,-1.2586886,.29179046,3,Shoe Machine Operators and Tenders,Three
+516051,-.87285829,.66972524,3,"Sewers, Hand",Three
+516052,-1.3243918,1.0745471,3,"Tailors, Dressmakers, and Custom Sewers",Three
+516061,-.78382134,.31830651,3,Textile Bleaching and Dyeing Machine Operators and Tenders,Three
+516062,-.54847759,.67866021,3,"Textile Cutting Machine Setters, Operators, and Tenders",Three
+516063,-1.4495382,.08457002,3,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Three
+516064,-.98445421,.29419705,3,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Three
+516091,-.89128935,-.14303462,3,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",Three
+516092,.23300157,1.0087827,3,Fabric and Apparel Patternmakers,Three
+516093,-.91549098,.80414641,3,Upholsterers,Three
+517011,-.49331671,1.6813414,3,Cabinetmakers and Bench Carpenters,Three
+517021,-1.5324557,.41194066,3,Furniture Finishers,Three
+517031,.0038928059,1.8909155,2,"Model Makers, Wood",Two
+517032,-.3579309,2.2896156,2,"Patternmakers, Wood",Two
+517041,-1.452703,.5692721,3,"Sawing Machine Setters, Operators, and Tenders, Wood",Three
+517042,-1.1211519,.7473498,3,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Three
+518011,.65938336,-.40986055,1,Nuclear Power Reactor Operators,One
+518012,.5489918,.19471268,1,Power Distributors and Dispatchers,One
+518013,-.12309484,-.25889689,1,Power Plant Operators,One
+518021,.42661336,-.063828453,1,Stationary Engineers and Boiler Operators,One
+518031,.30088994,.45704341,3,Water and Wastewater Treatment Plant and System Operators,Three
+518091,-.46374363,-.2907013,3,Chemical Plant and System Operators,Three
+518092,-.13354215,.47858614,3,Gas Plant Operators,Three
+518093,.38643265,-.19606289,1,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",One
+518099,.27422002,.49536777,3,"Plant and System Operators, All Other",Three
+519011,.17761953,.26941007,3,Chemical Equipment Operators and Tenders,Three
+519012,-.65236437,.27084222,3,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Three
+519021,-.7286424,.54804486,3,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Three
+519022,-.7772724,.8618288,3,"Grinding and Polishing Workers, Hand",Three
+519023,-.99916059,.25468934,3,"Mixing and Blending Machine Setters, Operators, and Tenders",Three
+519031,-1.6513621,.90132618,3,"Cutters and Trimmers, Hand",Three
+519032,-.70497221,.14980033,3,"Cutting and Slicing Machine Setters, Operators, and Tenders",Three
+519041,-.48208791,.39028552,3,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",Three
+519051,-.80761856,-.12857977,3,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",Three
+519061,-.6247437,-.11013891,3,"Inspectors, Testers, Sorters, Samplers, and Weighers",Three
+519071,-.69309324,1.0211143,3,Jewelers and Precious Stone and Metal Workers,Three
+519081,-.35073456,1.3351886,3,Dental Laboratory Technicians,Three
+519082,.018752355,1.3527855,3,Medical Appliance Technicians,Three
+519083,-.60131574,.33886924,3,Ophthalmic Laboratory Technicians,Three
+519111,-1.1586983,-.20679788,3,Packaging and Filling Machine Operators and Tenders,Three
+519121,-.90740001,.22080776,3,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Three
+519122,-.71205461,.0054221116,3,"Painters, Transportation Equipment",Three
+519123,-1.5958002,.42113501,3,"Painting, Coating, and Decorating Workers",Three
+519141,-.3467465,.24668279,3,Semiconductor Processors,Three
+519151,,,.,Photographic Process Workers and Processing Machine Operators,
+519191,-.96017504,.13473563,3,Adhesive Bonding Machine Operators and Tenders,Three
+519192,-1.5735978,.43138948,3,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Three
+519193,-.37557539,.36021248,3,Cooling and Freezing Equipment Operators and Tenders,Three
+519194,-.68654567,.68630916,3,Etchers and Engravers,Three
+519195,-.75332636,.81634378,3,"Molders, Shapers, and Casters, Except Metal and Plastic",Three
+519196,-.72459763,.030286076,3,"Paper Goods Machine Setters, Operators, and Tenders",Three
+519197,-1.0222421,.22716613,3,Tire Builders,Three
+519198,-1.1192323,.25167769,3,Helpers--Production Workers,Three
+519199,-1.0941859,.61639416,3,"Production Workers, All Other",Three
+531011,.22161873,-.52567881,1,Aircraft Cargo Handling Supervisors,One
+531021,.055947635,-.49070615,1,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",One
+531031,.31107876,-.55397409,1,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,One
+532011,.94929343,-1.100726,1,"Airline Pilots, Copilots, and Flight Engineers",One
+532012,.07080546,-.30754098,1,Commercial Pilots,One
+532021,.54219198,-.8495056,1,Air Traffic Controllers,One
+532022,.25012061,-.15314445,1,Airfield Operations Specialists,One
+532031,-.99604326,-.19582497,3,Flight Attendants,Three
+533011,-1.0166807,-.063624077,3,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Three
+533021,-1.0787622,-.046680886,3,"Bus Drivers, Transit and Intercity ",Three
+533022,-1.619718,.01669164,3,"Bus Drivers, School or Special Client ",Three
+533031,-1.3104343,-.11713844,3,Driver/Sales Workers,Three
+533032,-.74799752,-.0045701419,3,Heavy and Tractor-Trailer Truck Drivers,Three
+533033,-1.125968,-.24714184,3,Light Truck or Delivery Services Drivers,Three
+533041,-1.1668981,-.21519834,3,Taxi Drivers and Chauffeurs,Three
+534011,-.60467398,-.49793297,3,Locomotive Engineers,Three
+534012,-1.0469254,-.34791473,3,Locomotive Firers,Three
+534013,-1.0772607,.1833387,3,"Rail Yard Engineers, Dinkey Operators, and Hostlers",Three
+534021,-.9316535,.20400973,3,"Railroad Brake, Signal, and Switch Operators",Three
+534031,-.54115725,-.046999477,3,Railroad Conductors and Yardmasters,Three
+534041,-1.0475063,-.13086103,3,Subway and Streetcar Operators,Three
+535011,-.49098441,.093822375,3,Sailors and Marine Oilers,Three
+535021,-.03099566,-.003593385,3,"Captains, Mates, and Pilots of Water Vessels",Three
+535022,-.86275095,.58533859,3,Motorboat Operators,Three
+535031,-.14794844,1.3505725,3,Ship Engineers,Three
+536011,-1.5442594,.3318187,3,Bridge and Lock Tenders,Three
+536021,-1.5551664,.11311159,3,Parking Lot Attendants,Three
+536031,-.47144625,.38867238,3,Automotive and Watercraft Service Attendants,Three
+536041,.88600767,.82906228,2,Traffic Technicians,Two
+536051,-.033008434,.1208028,3,Transportation Inspectors,Three
+536061,-1.6163002,.21555436,3,"Transportation Attendants, Except Flight Attendants ",Three
+537011,-.55266869,1.3911927,3,Conveyor Operators and Tenders,Three
+537021,-.66855294,.33651537,3,Crane and Tower Operators,Three
+537031,-1.3413429,.86493182,3,Dredge Operators,Three
+537032,-.734218,.82517928,3,Excavating and Loading Machine and Dragline Operators,Three
+537033,-1.5947442,.85447896,3,"Loading Machine Operators, Underground Mining",Three
+537041,-.99970359,.4499459,3,Hoist and Winch Operators,Three
+537051,-.98193836,.077835798,3,Industrial Truck and Tractor Operators,Three
+537061,-1.7830426,.46599782,3,Cleaners of Vehicles and Equipment,Three
+537062,-1.4496908,.022111639,3,"Laborers and Freight, Stock, and Material Movers, Hand",Three
+537063,-1.3870628,.25142801,3,Machine Feeders and Offbearers,Three
+537064,-1.1579846,.14092934,3,"Packers and Packagers, Hand",Three
+537071,-.27491367,.39459562,3,Gas Compressor and Gas Pumping Station Operators,Three
+537072,.074817486,.086721972,3,"Pump Operators, Except Wellhead Pumpers",Three
+537073,-.79800534,.21231087,3,Wellhead Pumpers,Three
+537081,-1.4009695,.3519769,3,Refuse and Recyclable Material Collectors,Three
+537111,-1.7602055,.40215909,3,Mine Shuttle Car Operators,Three
+537121,-.12230054,.17087528,3,"Tank Car, Truck, and Ship Loaders",Three
