@@ -16,4 +16,4 @@ Here I'm just learning some D3 by modifying basic visualizations available on bl
 
 3. **Dendogram (*in progress*)**: builds on the following [example](https://bl.ocks.org/mbostock/4339083)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
