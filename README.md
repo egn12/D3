@@ -2,7 +2,7 @@
 
 ## Basic D3 Visualizations
 
-Here I'm just learning some D3 by modifying basic visualizations available on blocks:
+Here I'm just learning some D3 by modifying and commenting basic visualizations available on blocks:
 
 1. **Interactive bar graph**: with (1) hover (2) window resize and (3) count + frequency; builds on the following [example](http://bl.ocks.org/Caged/6476579)
 
